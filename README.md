@@ -7,6 +7,6 @@ The coursework was focussed on analysing air pollution data collected from diffe
 
 In this repository are the five program files and the testing file I was required to create, as well as the provided datasets. 
 
-*Note: in monitoring.py, the function get_live_data_from_api() was provided by the module leaders, and isn't actually used in my finished project.
+*Note: in monitoring.py, the function get_live_data_from_api() was provided by the module leaders, and isn't actually used in my finished project.*
 
 I achieved a mark of 96/100 for this coursework.
